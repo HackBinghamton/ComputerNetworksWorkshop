@@ -19,4 +19,4 @@ How application-layer protocols work, with HTTP as a case study!
 
 ## Feedback
 
-We hope you enjoy the workshop! Let us know of any feedback you have for a chance to get a free HackBU T-shirt at this form [here]()!
+We hope you enjoy the workshop! Let us know of any feedback you have for a chance to get a free HackBU T-shirt at this form [here](https://forms.gle/eAmVBZDqir7D7AJVA)!
