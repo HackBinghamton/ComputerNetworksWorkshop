@@ -8,13 +8,13 @@ No worries if none of that sounds familiar -- the only requirement coming into t
 
 ## Sections
 
-* **[Intro to Socket Programming]()** - 
+* **[Intro to Socket Programming](https://colab.research.google.com/github/HackBinghamton/ComputerNetworksWorkshop/blob/main/intro-sockets/introduction-to-socket-programming.ipynb)** - 
 How to use sockets, the building blocks of internet-enabled programs!
-* **[The TCP/IP Stack and Transport-Layer Protocols]()** - 
+* **[The TCP/IP Stack and Transport-Layer Protocols](https://colab.research.google.com/github/HackBinghamton/ComputerNetworksWorkshop/blob/main/tcp-ip-stack-and-transport.ipynb)** - 
 An overview of the structure of the internet, and how to choose the right kind of socket for your application!
-* **[IP Addresses and DNS]()** -
+* **[IP Addresses and DNS](https://colab.research.google.com/github/HackBinghamton/ComputerNetworksWorkshop/blob/main/ip-addresses-dns.ipynb)** -
 A discussion of how computers know how to find one another (and when they can't), as well as how we connect domain names to IP addresses!
-* **[Application-Layer Protocols]()** -
+* **[Application-Layer Protocols](https://colab.research.google.com/github/HackBinghamton/ComputerNetworksWorkshop/blob/main/application-layer.ipynb)** -
 How application-layer protocols work, with HTTP as a case study!
 
 ## Feedback
